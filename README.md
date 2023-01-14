@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asim
 - 👀 I’m interested in Tech especially in Data Science and Machine Learning
-- 🌱 I’m currently studying Masters in Data Science
+- 🌱 I’m currently studying MSc Data Science
 - 📫 How to reach me ...👇🏻
 - 📧 asimlalaa@gmail.com
 - https://twitter.com/KhanAsim_
