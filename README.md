@@ -4,7 +4,7 @@
 
 🤖 I'm passionate about leveraging Machine Learning and AI to solve real-world problems.
 
-🎓 I’ve completed my MSc in Data Science with Advanced Research.
+🎓 I’m pursuing my MSc in Data Science with Advanced Research.
 
 🌱 Currently, I'm focused on contributing to open-source projects and enhancing my skills in AI and ML applications.
 
