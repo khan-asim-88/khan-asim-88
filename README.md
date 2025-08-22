@@ -1,14 +1,26 @@
 👋 Hi, I’m Asim.
 
-💼 I’m a Data Science and AI Engineer, with a strong background in Software Engineering.
+💼 I’m a **Data Science & AI Engineer** with a strong foundation in **Software Engineering**.
 
-🤖 I'm passionate about leveraging Machine Learning and AI to solve real-world problems.
+🤖 I specialize in **Machine Learning, Deep Learning, and AI applications**, leveraging data to solve real-world problems.
 
-🎓 I’m pursuing my MSc in Data Science with Advanced Research.
+🎓 I’ve completed my **MSc in Data Science with Advanced Research**, where I focused on predictive modeling, AI-driven decision-making, and advanced research in applied machine learning.
 
-🌱 Currently, I'm focused on contributing to open-source projects and enhancing my skills in AI and ML applications.
+🌱 Currently, I’m contributing to open-source projects, building AI-driven applications, and seeking opportunities in **Data Science, AI, and Software Engineering**.
 
-📬 How to reach me: ...👇🏻
+🛠 **Tech Stack**
+
+**Languages:** Python, SQL, JavaScript, PHP
+
+**ML & AI:** Scikit-learn, TensorFlow, PyTorch, Prophet, LSTM/GRU
+
+**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel
+
+**Databases:** MySQL, PostgreSQL, SQL Server
+
+**Other Tools:** Git, Docker, Playwright, Jupyter
+
+📬 **Reach me at:**
 
 📧 Email: asimlalala@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/asim-salim)  
