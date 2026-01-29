@@ -1,6 +1,6 @@
 👋 Hi, I’m Asim.
 
-💼 I’m a **Data Science & AI Engineer** with a strong foundation in **Software Engineering**.
+💼 I’m a **Data Scientist | AI / Machine Learning Engineer** with a strong foundation in **Software Engineering**.
 
 🤖 I specialize in **Machine Learning, Deep Learning, and AI applications**, leveraging data to solve real-world problems.
 
